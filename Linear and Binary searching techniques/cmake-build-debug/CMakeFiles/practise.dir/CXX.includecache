@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Tasks/Linear and Binary searching techniques/Person.h
+iostream
+-
+vector
+C:/Users/User/CLionProjects/Tasks/Linear and Binary searching techniques/vector
+
+C:/Users/User/CLionProjects/Tasks/Linear and Binary searching techniques/main.cpp
+iostream
+-
+vector
+C:/Users/User/CLionProjects/Tasks/Linear and Binary searching techniques/vector
+Person.h
+C:/Users/User/CLionProjects/Tasks/Linear and Binary searching techniques/Person.h
+

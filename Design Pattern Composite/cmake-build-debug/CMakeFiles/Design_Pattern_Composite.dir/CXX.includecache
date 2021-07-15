@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Component.h
+
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Composite.h
+Component.h
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Component.h
+iostream
+-
+list
+-
+
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Leaf.h
+Component.h
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Component.h
+iostream
+-
+list
+-
+
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/main.cpp
+iostream
+-
+Composite.h
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Composite.h
+Leaf.h
+C:/Users/User/CLionProjects/Tasks/Design Pattern Composite/Leaf.h
+
